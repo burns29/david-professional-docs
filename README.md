@@ -654,7 +654,7 @@ href="David%20Burns%20Professional%20Statement%20Long_files/colorschememapping.x
    Name="Smart Link"/>
  </w:LatentStyles>
 </xml><![endif]-->
-<style>
+
 <!--
  /* Font Definitions */
  @font-face
@@ -1497,7 +1497,7 @@ span.IntenseQuoteChar
 div.WordSection1
 	{page:WordSection1;}
 -->
-</style>
+
 <!--[if gte mso 10]>
 <style>
  /* Style Definitions */
